@@ -973,4 +973,9 @@ int main() {
  ![Screenshot 2024-05-03 173438](https://github.com/user-attachments/assets/b5f2be10-28fa-4364-9533-b47522836b17)
 
 
-we can read the hacking-targets.txt file under the C:\Users\Administrator\Desktop\Hacking-Target.
+we can read the hacking-targets.txt file under the C:\Users\Administrator\Desktop\Hacking-Target:
+
+
+
+![Screenshot 2024-05-03 173611](https://github.com/user-attachments/assets/421eb6b6-5389-45ac-882a-ba9c7a0199ef)
+
